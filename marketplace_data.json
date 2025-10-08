@@ -1,0 +1,21 @@
+{
+    "listings": {
+        "8e6596f7-db98-4d3f-8cd6-9f2bc18640f6": {
+            "id": "8e6596f7-db98-4d3f-8cd6-9f2bc18640f6",
+            "name": "chair",
+            "description": "wooden chair",
+            "price": "5",
+            "category": "furniture",
+            "owner": "suthar"
+        },
+        "f1af44c1-03bd-4c76-93fc-e8326730ff3e": {
+            "id": "f1af44c1-03bd-4c76-93fc-e8326730ff3e",
+            "name": "table",
+            "description": "red table",
+            "price": "10",
+            "category": "furniture",
+            "owner": "suthar"
+        }
+    },
+    "conversations": {}
+}
